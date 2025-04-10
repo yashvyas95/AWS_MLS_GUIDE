@@ -1,3 +1,5 @@
+ ![](/AWS-Certified-Machine-Learning-Specialty_badge.e5d66b56552bbf046f905bacaecef6dad0ae7180.png) 
+
 # 🚀 AWS Certified Machine Learning – Specialty Certification Guide 2025! 🎓  
 
 **AWS Machine Learning Specialty (MLS-C01)** exam! 🎉 This certification validates expertise in building, training, tuning, and deploying ML models on AWS—a critical skillset in today’s data-driven world.  
