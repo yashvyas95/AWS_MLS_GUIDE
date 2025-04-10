@@ -25,6 +25,7 @@ The test is rigorous and focuses on:
 - practice Exam [Free] https://github.com/Ditectrev/Amazon-Web-Services-Certified-AWS-Certified-Machine-Learning-MLS-C01-Practice-Tests-Exams-Question
 - Study Guide https://github.com/LongBu/AWS-MLS-C01-Study-Guide
 - Cheat Sheet https://ashanksm.medium.com/aws-certified-machine-learning-specialty-cheat-sheet-e3d1bd6acf7f
+- Examples https://github.com/aws/amazon-sagemaker-examples
 
 
 # AWS Documentation & Resources
