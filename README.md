@@ -24,6 +24,7 @@ The test is rigorous and focuses on:
 - Practice Exam [paid] https://www.udemy.com/course/aws-certified-machine-learning-specialty-full-practice-exams/?couponCode=ST13MT80425G3
 - practice Exam [Free] https://github.com/Ditectrev/Amazon-Web-Services-Certified-AWS-Certified-Machine-Learning-MLS-C01-Practice-Tests-Exams-Question
 - Study Guide https://github.com/LongBu/AWS-MLS-C01-Study-Guide
+- Study Guide https://github.com/JShollaj/AWS-Machine-Learning
 - Cheat Sheet https://ashanksm.medium.com/aws-certified-machine-learning-specialty-cheat-sheet-e3d1bd6acf7f
 - Examples https://github.com/aws/amazon-sagemaker-examples
 
